@@ -45,7 +45,8 @@ flowchart LR
 
 | # | Tópico | Módulo | Status |
 |---|---|---|---|
-| 01 | [Introdução ao Python: números, textos e listas](./dia-01-introducao-python-numeros-textos-listas.md) | Fundamentos | ✅ Concluído |
+| 01 | [Introdução ao Python: números, textos e listas](/01-fundamentos-python/dia-01-introducao-python-numeros-textos-listas.md) | Fundamentos | ✅ Concluído |
+| 02 | [Ferramentas de Controle de Fluxo (Control Flow Tools)](/01-fundamentos-python/dia-02-ferramentas-de-controle-de-fluxo.md) | Fundamentos | ✅ Concluído |
 
 ---
 
@@ -76,4 +77,4 @@ Consolidar o aprendizado em um projeto prático aplicado a cibersegurança (ex: 
 
 ## Sobre
 
-Estudos conduzidos e documentados por @ewrson_dev, desenvolvedor fullstack e criador de conteúdo educativo sobre desenvolvimento web.
+Estudos conduzidos e documentados por @ewerson_dev, desenvolvedor fullstack e criador de conteúdo educativo sobre desenvolvimento web.

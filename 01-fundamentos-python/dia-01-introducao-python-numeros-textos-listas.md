@@ -222,9 +222,3 @@ Se eu quiser uma cópia de verdade, independente, uso o fatiamento completo `[:]
 | Números | `/` sempre devolve float, `//` é divisão inteira, `%` é resto, `**` é potência |
 | Strings | Imutáveis, indexação começa em 0, slicing não inclui o índice final |
 | Listas | Mutáveis, aceitam `.append()`, cuidado ao copiar (usar `[:]` pra cópia real) |
-
----
-
-## Próximos passos
-
-Continuar o tutorial oficial a partir da seção "First Steps Towards Programming" (estruturas de controle: `while`, `if`, etc).
